@@ -9,6 +9,4 @@ busca abarcar conceptos como:
 
 Aqui un ejemplo:
 
-<img src="./images/example.png"
-  alt="Example"
-></img
+<img src="./images/example.png"></img>
