@@ -1,0 +1,36 @@
+body {
+  background: #d3d3d3;
+  margin: 0;
+}
+header {
+  background: white;
+  padding: 5px;
+}
+header h1 {
+  margin: 0;
+}
+
+img {
+  width: 500px;
+}
+div.box1 {
+  margin: auto;
+  width: 500px;
+}
+div.post-feed {
+  background: white;
+  margin-top: 40px;
+}
+div.post-feed p{
+  padding: 10px;
+  margin: 5px;
+}
+div.post-feed h2{
+  margin: 10px;
+  width: 85%;
+  display: inline-block; 
+}
+
+span {
+  color: gray;
+}
